@@ -1,0 +1,14 @@
+{
+  "name": "user-create-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Malcolm Nilhén <malcolm.nihlen@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-socket": "^0.3.0",
+    "linux-user": "https://github.com/scriptcoded/linux-user/",
+    "passwd-linux": "^2.0.0",
+    "shelljs": "^0.8.2",
+    "uuid": "^3.3.2"
+  }
+}
